@@ -6,7 +6,7 @@ Welcome to the **Developer Tips and Resources** repository! This collection is d
 
 ## 📚 Contents
 - [Web Development](./web-development/)
-- [Python](./python/)
+- [Python](./python)
 - [Tools and Productivity](./tools-and-productivity/)
 - [Other Skills](./other-skills/)
 
