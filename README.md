@@ -27,3 +27,7 @@ We welcome contributions! If you have tips, resources, or course recommendations
 - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/)
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend)
 
+
+## Websites for Web Devs
+- **Fonts** - https://fonts.google.com/
+- **Color** - https://colorhunt.co/
