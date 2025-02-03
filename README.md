@@ -9,7 +9,6 @@ Welcome to the **Developer Tips and Resources** repository! This collection is d
 - [Tools and Productivity](./tools-and-productivity/)
 - [Other Skills](./other-skills/)
 
----
 
 ## 💡 How to Use This Repository
 1. Browse through specific categories to find curated tips and tricks.  
@@ -19,7 +18,6 @@ Welcome to the **Developer Tips and Resources** repository! This collection is d
 ## 🤝 Contribute
 We welcome contributions! If you have tips, resources, or course recommendations, feel free to create a pull request or open an issue.
 
----
 
 ### 🔗 Quick Links
 - [Official FreeCodeCamp Curriculum](https://www.freecodecamp.org/)
@@ -31,12 +29,10 @@ We welcome contributions! If you have tips, resources, or course recommendations
 - **Fonts** - https://fonts.google.com/
 - **Color** - https://colorhunt.co/
 
----
 # 🔗 Check if Your Data Has Been Breached
 Want to know if your email or password has been part of a data breach? Use Have I Been Pwned to check securely.
 👉 Click here to check : https://haveibeenpwned.com/
 
----
 # 🖼️ Flowchart Creation
 Flowcharts simplify complex processes, making it easier to analyze and solve problems. 
 Use https://app.diagrams.net/ to design and share flowcharts effortlessly.
