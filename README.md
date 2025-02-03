@@ -2,7 +2,6 @@
 
 Welcome to the **Developer Tips and Resources** repository! This collection is designed to help developers at all levels enhance their productivity, code quality, and skills. It also includes the best courses for mastering various technologies.
 
----
 
 ## 📚 Contents
 - [Web Development](./web-development/)
