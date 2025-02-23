@@ -29,12 +29,14 @@ We welcome contributions! If you have tips, resources, or course recommendations
 - **Fonts** - https://fonts.google.com/
 - **Color** - https://colorhunt.co/
 
-# 🔗 Check if Your Data Has Been Breached
+## 🔗 Check if Your Data Has Been Breached
 Want to know if your email or password has been part of a data breach? Use Have I Been Pwned to check securely.
 👉 Click here to check : https://haveibeenpwned.com/
 
-# 🖼️ Flowchart Creation
+## 🖼️ Flowchart Creation
 Flowcharts simplify complex processes, making it easier to analyze and solve problems. 
 Use https://app.diagrams.net/ to design and share flowcharts effortlessly.
 
 ---
+## Web Color Mixer
+https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
