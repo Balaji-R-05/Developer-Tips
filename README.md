@@ -42,4 +42,5 @@ Use https://app.diagrams.net/ to design and share flowcharts effortlessly.
 https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
 
 ## Linux
-https://www.mediacollege.com/linux/command/linux-command.html
+- https://www.mediacollege.com/linux/command/linux-command.html
+- https://explainshell.com/
